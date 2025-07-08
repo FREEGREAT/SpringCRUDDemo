@@ -105,10 +105,3 @@ SpringCRUDDemo/
 ├── pom.xml                            # Maven configuration
 ```
 
-## 📄 License
-
-This project is open for educational and demonstration purposes.
-
-## 👤 Author
-
-GitHub: [FREEGREAT](https://github.com/FREEGREAT)
